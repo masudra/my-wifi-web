@@ -1,5 +1,16 @@
 .bgphoto{
     background-image:url(cover3.jpg) ;
   
-    height: 420px;
+    height: 500px;
+}
+
+nav li .dropdown{
+    display: none;
+    position: absolute;
+}
+
+nav li:hover .dropdown{
+   display: block;
+   color: rgb(176, 12, 236);
+   background-color: azure;
 }
