@@ -1,19 +1,23 @@
 document.getElementById('submit-btn') .addEventListener('click',function(){
     const userEmail =document.getElementById('emaile-adrres');
     const email =userEmail.value ;
- 
+
     const userPassword =document.getElementById('password-input');
     const password =userPassword.value;
+    
+    
     // 1  Masud Rana
     if(email === 'mrbank@gmail.com' && password ==='mrbank123'){
        window.location.href = 'dashbord.html';
     }
+
     // 2   
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    else if(email === 'ma' && password ==='ma'){
         window.location.href = 'dashbord.html';
+        num="jubin"
      }
     //3  
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    else if(email === 'rana' && password ==='rana'){
         window.location.href = 'dashbord.html';
      }
     // 4  
@@ -33,12 +37,12 @@ document.getElementById('submit-btn') .addEventListener('click',function(){
         window.location.href = 'dashbord.html';
      }
     //  8
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
-        window.location.href = 'dashbord.html';
+    else if(email === 'mr' && password ==='mr'){
+        window.location.href = 'All Html/user8.html';
      }
     //  9
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
-        window.location.href = 'dashbord.html';
+    else if(email === 'rana@gmail.com' && password ==='rana'){
+        window.location.href = 'All Html/user9.html';
      }
     //  10
     else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
