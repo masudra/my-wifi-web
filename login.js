@@ -1,14 +1,14 @@
-document.getElementById('submit-btn') .addEventListener('click',function(){
+const loginInfiJS = () =>{
+
     const userEmail =document.getElementById('emaile-adrres');
     const email =userEmail.value ;
 
     const userPassword =document.getElementById('password-input');
     const password =userPassword.value;
     
-    
     // 1  Masud Rana
     if(email === '7484301' && password ==='masud123'){
-       window.location.href = 'dashbord.html';
+       window.location.href = 'All Html/user1.html';
     }
 
     // 7484302  Utsho
@@ -132,7 +132,20 @@ document.getElementById('submit-btn') .addEventListener('click',function(){
      alert('Invalide Email and Password')
     }
  
-    
- 
- })
- 
+//  })
+}
+
+ document.getElementById('submit-btn') .addEventListener('click',function(){
+    loginInfiJS();
+ });
+
+ document.getElementById('password-input').addEventListener('keypress', function (e) {
+    if (e.key === 'Enter') {
+       loginInfiJS();
+    }
+});
+ document.getElementById('emaile-adrres').addEventListener('keypress', function (e) {
+    if (e.key === 'Enter') {
+       loginInfiJS();
+    }
+});
