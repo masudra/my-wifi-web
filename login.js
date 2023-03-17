@@ -5,7 +5,11 @@ const loginInfiJS = () =>{
 
     const userPassword =document.getElementById('password-input');
     const password =userPassword.value;
-    
+
+    if(email ==='' || password ===''){
+      alert('Please Fill Up All Your Information')
+   }
+    else{
     // 1  Masud Rana
     if(email === '7484301' && password ==='masud123'){
        window.location.href = 'All Html/user1.html';
@@ -129,11 +133,13 @@ const loginInfiJS = () =>{
      }
    
     else{
-     alert('Invalide Email and Password')
+     alert('Invalide Email Or Password')
     }
+   }
  
 //  })
 }
+
 
  document.getElementById('submit-btn') .addEventListener('click',function(){
     loginInfiJS();
@@ -149,3 +155,7 @@ const loginInfiJS = () =>{
        loginInfiJS();
     }
 });
+
+if(email ===''){
+   alert('please give your email or id')
+}
