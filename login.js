@@ -7,125 +7,124 @@ document.getElementById('submit-btn') .addEventListener('click',function(){
     
     
     // 1  Masud Rana
-    if(email === 'mrbank@gmail.com' && password ==='mrbank123'){
+    if(email === '7484301' && password ==='masud123'){
        window.location.href = 'dashbord.html';
     }
 
-    // 2   
-    else if(email === 'ma' && password ==='ma'){
-        window.location.href = 'dashbord.html';
-        num="jubin"
-     }
-    //3  
-    else if(email === 'rana' && password ==='rana'){
-        window.location.href = 'dashbord.html';
-     }
-    // 4  
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
-        window.location.href = 'dashbord.html';
-     }
-    // 5  
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
-        window.location.href = 'dashbord.html';
-     }
-    //  6
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
-        window.location.href = 'dashbord.html';
+    // 7484302  Utsho
+    else if(email === '7484302' && password ==='7484302'){
+        window.location.href = 'All Html/user2.html';
     }
-    // 7
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
-        window.location.href = 'dashbord.html';
+    //7484303    Moni
+    else if(email === '7484303' && password ==='7484303'){
+        window.location.href = 'All Html/user3.html';
      }
-    //  8
-    else if(email === 'mr' && password ==='mr'){
+    // 7484304   Rupa
+    else if(email === '7484304' && password ==='7484304'){
+        window.location.href = 'All Html/user4.html';
+     }
+    // 7484305  Saifillah
+    else if(email === '7484305' && password ==='7484305'){
+        window.location.href = 'All Html/user5.html';
+     }
+    //  7484306  Hasad
+    else if(email === '7484306' && password ==='7484306'){
+        window.location.href = 'All Html/user6.html';
+    }
+    // 7484307  Jibon
+    else if(email === '7484307' && password ==='7484307'){
+        window.location.href = 'All Html/user7.html';
+     }
+    //  7484308 Arafat
+    else if(email === '7484308' && password ==='7484308'){
         window.location.href = 'All Html/user8.html';
      }
-    //  9
-    else if(email === 'rana@gmail.com' && password ==='rana'){
+    //  7484309   Koci
+    else if(email === '7484309' && password ==='7484309'){
         window.location.href = 'All Html/user9.html';
      }
-    //  10
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484310 Himel
+    else if(email === '7484310' && password ==='7484310'){
+        window.location.href = 'All Html/user10.html';
+     }
+    //  7484311  Habib
+    else if(email === '7484311' && password ==='7484311'){
+        window.location.href = 'All Html/user10.html';
+     }
+    //  7484312
+    else if(email === '7484312' && password ==='7484312'){
         window.location.href = 'dashbord.html';
      }
-    //  11
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484313
+    else if(email === '7484313' && password ==='7484313'){
         window.location.href = 'dashbord.html';
      }
-    //  12
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484314
+    else if(email === '7484314' && password ==='7484314'){
         window.location.href = 'dashbord.html';
      }
-    //  13
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484315
+    else if(email === '7484315' && password ==='7484315'){
         window.location.href = 'dashbord.html';
      }
-    //  14
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484316
+    else if(email === '7484316' && password ==='7484316'){
         window.location.href = 'dashbord.html';
      }
-    //  15
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484317
+    else if(email === '7484317' && password ==='7484317'){
         window.location.href = 'dashbord.html';
      }
-    //  16
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484318
+    else if(email === '7484318' && password ==='7484318'){
         window.location.href = 'dashbord.html';
      }
-    //  17
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484319
+    else if(email === '7484319' && password ==='7484319'){
         window.location.href = 'dashbord.html';
      }
-    //  18
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484320
+    else if(email === '7484320' && password ==='7484320'){
         window.location.href = 'dashbord.html';
      }
-    //  19
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484321
+    else if(email === '7484321' && password ==='7484321'){
         window.location.href = 'dashbord.html';
      }
-    //  20
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484322
+    else if(email === '7484322' && password ==='7484322'){
         window.location.href = 'dashbord.html';
      }
-    //  21
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484323
+    else if(email === '7484323' && password ==='7484323'){
         window.location.href = 'dashbord.html';
      }
-    //  22
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484324
+    else if(email === '7484324' && password ==='7484324'){
         window.location.href = 'dashbord.html';
      }
-    //  23
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484325
+    else if(email === '7484325' && password ==='7484325'){
         window.location.href = 'dashbord.html';
      }
-    //  24
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484326
+    else if(email === '7484326' && password ==='7484326'){
         window.location.href = 'dashbord.html';
      }
-    //  25
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484327
+    else if(email === '7484327' && password ==='7484327'){
         window.location.href = 'dashbord.html';
      }
-    //  26
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484328
+    else if(email === '7484328' && password ==='7484328'){
         window.location.href = 'dashbord.html';
      }
-    //  27
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484329
+    else if(email === '7484329' && password ==='7484329'){
         window.location.href = 'dashbord.html';
      }
-    //  28
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
-        window.location.href = 'dashbord.html';
-     }
-    //  29
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
-        window.location.href = 'dashbord.html';
-     }
-    //  30
-    else if(email === 'mrjubin070@gmail.com' && password ==='mrjubin070@'){
+    //  7484330
+    else if(email === '7484330' && password ==='7484330'){
         window.location.href = 'dashbord.html';
      }
    
