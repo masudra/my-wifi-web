@@ -11,124 +11,124 @@ const loginInfiJS = () =>{
    }
     else{
     // 1  Masud Rana
-    if(email === '7484301' && password ==='masud123'){
-       window.location.href = 'All Html/user1.html';
+    if(email === '627831101' && password ==='masud123'){
+       window.location.href = 'user1.html';
     }
 
-    // 7484302  Utsho
-    else if(email === '7484302' && password ==='7484302'){
-        window.location.href = 'All Html/user2.html';
+    // 627831102  Utsho
+    else if(email === '627831102' && password ==='627831102'){
+        window.location.href = 'user2.html';
     }
-    //7484303    Moni
-    else if(email === '7484303' && password ==='7484303'){
-        window.location.href = 'All Html/user3.html';
+    //627831103    Moni
+    else if(email === '627831103' && password ==='627831103'){
+        window.location.href = 'user3.html';
      }
-    // 7484304   Rupa
-    else if(email === '7484304' && password ==='7484304'){
-        window.location.href = 'All Html/user4.html';
+    // 627831104   Rupa
+    else if(email === '627831104' && password ==='627831104'){
+        window.location.href = 'user4.html';
      }
-    // 7484305  Saifillah
-    else if(email === '7484305' && password ==='7484305'){
-        window.location.href = 'All Html/user5.html';
+    // 627831105  Saifillah
+    else if(email === '627831105' && password ==='627831105'){
+        window.location.href = 'user5.html';
      }
-    //  7484306  Hasad
-    else if(email === '7484306' && password ==='7484306'){
-        window.location.href = 'All Html/user6.html';
+    //  627831106  Hasad
+    else if(email === '627831106' && password ==='627831106'){
+        window.location.href = 'user6.html';
     }
-    // 7484307  Jibon
-    else if(email === '7484307' && password ==='7484307'){
-        window.location.href = 'All Html/user7.html';
+    // 627831107  Jibon
+    else if(email === '627831107' && password ==='627831107'){
+        window.location.href = 'user7.html';
      }
-    //  7484308 Arafat
-    else if(email === '7484308' && password ==='7484308'){
-        window.location.href = 'All Html/user8.html';
+    //  627831108 Arafat
+    else if(email === '627831108' && password ==='627831108'){
+        window.location.href = 'user8.html';
      }
-    //  7484309   Koci
-    else if(email === '7484309' && password ==='7484309'){
-        window.location.href = 'All Html/user9.html';
+    //  627831109   Koci
+    else if(email === '627831109' && password ==='627831109'){
+        window.location.href = 'user9.html';
      }
-    //  7484310 Himel
-    else if(email === '7484310' && password ==='7484310'){
-        window.location.href = 'All Html/user10.html';
+    //  627831110 Himel
+    else if(email === '627831110' && password ==='627831110'){
+        window.location.href = 'user10.html';
      }
-    //  7484311  Habib
-    else if(email === '7484311' && password ==='7484311'){
-        window.location.href = 'All Html/user10.html';
+    //  627831111  Habib
+    else if(email === '627831111' && password ==='627831111'){
+        window.location.href = 'user10.html';
      }
-    //  7484312
-    else if(email === '7484312' && password ==='7484312'){
+    //  627831112
+    else if(email === '627831112' && password ==='627831112'){
         window.location.href = 'dashbord.html';
      }
-    //  7484313
-    else if(email === '7484313' && password ==='7484313'){
+    //  627831113
+    else if(email === '627831113' && password ==='627831113'){
         window.location.href = 'dashbord.html';
      }
-    //  7484314
-    else if(email === '7484314' && password ==='7484314'){
+    //  627831114
+    else if(email === '627831114' && password ==='627831114'){
         window.location.href = 'dashbord.html';
      }
-    //  7484315
-    else if(email === '7484315' && password ==='7484315'){
+    //  627831115
+    else if(email === '627831115' && password ==='627831115'){
         window.location.href = 'dashbord.html';
      }
-    //  7484316
-    else if(email === '7484316' && password ==='7484316'){
+    //  627831116
+    else if(email === '627831116' && password ==='627831116'){
         window.location.href = 'dashbord.html';
      }
-    //  7484317
-    else if(email === '7484317' && password ==='7484317'){
+    //  627831117
+    else if(email === '627831117' && password ==='627831117'){
         window.location.href = 'dashbord.html';
      }
-    //  7484318
-    else if(email === '7484318' && password ==='7484318'){
+    //  627831118
+    else if(email === '627831118' && password ==='627831118'){
         window.location.href = 'dashbord.html';
      }
-    //  7484319
-    else if(email === '7484319' && password ==='7484319'){
+    //  627831119
+    else if(email === '627831119' && password ==='627831119'){
         window.location.href = 'dashbord.html';
      }
-    //  7484320
-    else if(email === '7484320' && password ==='7484320'){
+    //  627831120
+    else if(email === '627831120' && password ==='627831120'){
         window.location.href = 'dashbord.html';
      }
-    //  7484321
-    else if(email === '7484321' && password ==='7484321'){
+    //  627831121
+    else if(email === '627831121' && password ==='627831121'){
         window.location.href = 'dashbord.html';
      }
-    //  7484322
-    else if(email === '7484322' && password ==='7484322'){
+    //  627831122
+    else if(email === '627831122' && password ==='627831122'){
         window.location.href = 'dashbord.html';
      }
-    //  7484323
-    else if(email === '7484323' && password ==='7484323'){
+    //  627831123
+    else if(email === '627831123' && password ==='627831123'){
         window.location.href = 'dashbord.html';
      }
-    //  7484324
-    else if(email === '7484324' && password ==='7484324'){
+    //  627831124
+    else if(email === '627831124' && password ==='627831124'){
         window.location.href = 'dashbord.html';
      }
-    //  7484325
-    else if(email === '7484325' && password ==='7484325'){
+    //  627831125
+    else if(email === '627831125' && password ==='627831125'){
         window.location.href = 'dashbord.html';
      }
-    //  7484326
-    else if(email === '7484326' && password ==='7484326'){
+    //  627831126
+    else if(email === '627831126' && password ==='627831126'){
         window.location.href = 'dashbord.html';
      }
-    //  7484327
-    else if(email === '7484327' && password ==='7484327'){
+    //  627831127
+    else if(email === '627831127' && password ==='627831127'){
         window.location.href = 'dashbord.html';
      }
-    //  7484328
-    else if(email === '7484328' && password ==='7484328'){
+    //  627831128
+    else if(email === '627831128' && password ==='627831128'){
         window.location.href = 'dashbord.html';
      }
-    //  7484329
-    else if(email === '7484329' && password ==='7484329'){
+    //  627831129
+    else if(email === '627831129' && password ==='627831129'){
         window.location.href = 'dashbord.html';
      }
-    //  7484330
-    else if(email === '7484330' && password ==='7484330'){
+    //  627831130
+    else if(email === '627831130' && password ==='627831130'){
         window.location.href = 'dashbord.html';
      }
    
